@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_3destate_website=self.webpackChunk_3destate_website||[]).push([[874],{7244:function(t,e,a){a.d(e,{lU2:function(){return s}});var n=a(1046);function s(t){return(0,n.w_)({tag:"svg",attr:{viewBox:"0 0 24 24"},child:[{tag:"path",attr:{d:"M10.707 17.707 16.414 12l-5.707-5.707-1.414 1.414L13.586 12l-4.293 4.293z"}}]})(t)}}}]);
